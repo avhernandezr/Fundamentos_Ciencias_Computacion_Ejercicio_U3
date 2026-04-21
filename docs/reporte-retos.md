@@ -4,11 +4,11 @@
 
 ## Datos del estudiante
 
-Nombre:
+Nombre: Valentina Hernandez
 
-Usuario Github:
+Usuario Github: avhernandezr
 
-Fecha:
+Fecha: 21/04/2026
 
 
 ---
@@ -16,13 +16,25 @@ Fecha:
 ## Reto 1
 
 ### Comandos usados
-<!-- Escribe aquí los comandos utilizados -->
+control +s 
+git romote -v
+git status
+git add equipo/integrantes.txt
+git commit -m "Reto 1: Valentina Hernandez"
+git push
 
 ### Decisiones
-<!-- Explica qué hiciste y por qué -->
+Descarge el repositorio y lo clone para luego abrir una nueva terminal.
+Realice el cambio en el documento y oprimi control + s para guardar cambios.
+Luego utilice git status 
+Luego git add equipo/integrantes.txt toma el archivo para guardarlo.
+git commit -m "Reto 1: Valentina Hernandez"
+git push junto con el origen me ayuda a guardar los cambios en el repositorio de GitHub
+
 
 ### Dificultades (opcional)
-<!-- Problemas encontrados y cómo los resolviste -->
+Me costo bastante entender el orden y por que de los comandos.
+No lograba guardarlo en el repositorio publico
 
 ---
 
