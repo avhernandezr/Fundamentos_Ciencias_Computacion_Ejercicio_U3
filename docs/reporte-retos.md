@@ -41,8 +41,15 @@ No lograba guardarlo en el repositorio publico
 ## Reto 2
 
 ### Comandos usados
-
+git status
+git checkout main 
+git branch equipo-A-Objetivos
+git branch equipo-A-modulos
+git checkout -b equipo-A-objetivos
 ### Decisiones
+Primero utilizo git status para ver donde estoy ubicada.
+Luego git checkout main me permite ir a la rama principal (Si me aparece "Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean", puedo omitir ese paso)
 
 ### Dificultades (opcional)
 
