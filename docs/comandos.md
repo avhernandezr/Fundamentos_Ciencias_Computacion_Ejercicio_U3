@@ -5,6 +5,7 @@
 - `git clone <url-o-ruta>`: copia el repositorio.
 - `git status`: muestra estado de archivos y rama.
 - Ctrl + S : permite seleccionar los cambios para luego guardarlos.
+Hola
 
 ## Sección B - Guardar cambios
 - `git add <archivo>`: prepara archivo para commit.
